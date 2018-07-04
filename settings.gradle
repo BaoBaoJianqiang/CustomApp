@@ -1,0 +1,1 @@
+include ':ProductA', ':ProductB',':ProductC',':ProductD',':core'

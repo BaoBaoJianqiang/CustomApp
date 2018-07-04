@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <Page name="Scenario1Activity">
+        <Node key="show_button1" value="false" />
+    </Page>
+    <Page name="Scenario2Activity">
+        <Node key="show_button" value="false" />
+    </Page>
+</config>
+
